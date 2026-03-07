@@ -33,7 +33,7 @@ I'm a Computer Science student at UC Merced who loves building fun, useful proje
 ## 📊 GitHub Stats
 
 ![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaych415&show_icons=true&theme=dark&hide_border=true)
-
+![Jayesh's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaych415&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaych415&layout=compact&theme=dark&hide_border=true)
 
 ---
