@@ -42,7 +42,7 @@ I'm a Computer Science student at UC Merced who loves building fun, useful proje
 
 <!-- Replace # with your actual links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayeshch/)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jaych415.github.io/jayesh-website/index.html)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=green)](https://jaych415.github.io/jayesh-website/index.html)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jaych415.github.io/jayesh-website/index.html)
 
 ---
