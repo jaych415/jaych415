@@ -32,7 +32,8 @@ I'm a Computer Science student at UC Merced who loves building fun, useful proje
 
 ## 📊 GitHub Stats
 
-[Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaych415&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaych415&theme=dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaych415&theme=dark&utcOffset=-8)
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaych415&theme=dark)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaych415&theme=dark)
