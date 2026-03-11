@@ -1,28 +1,28 @@
-# Hi, I'm Jayesh 👋
+# Hi, I'm Jayesh 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jaych415&color=brightgreen&style=flat-square)](https://github.com/jaych415)
 
 ## About Me
 I'm a Computer Science student at UC Merced who loves building fun, useful projects — from Discord bots to camera-based games to recipe finders.
 
-- 📍 Merced, CA
-- 🎓 CS @ UC Merced
-- 💻 Currently working on: expanding my web and Python projects
-- 🏆 MLH Hackathon participant
+- Merced, CA
+- CSE @ UC Merced
+- Currently working on: expanding my web and Python projects
+- MLH Hackathon participant
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🎮 [adventure-game](https://github.com/jaych415/adventure-game) — A fun text-based adventure game built in Python
-- ✂️ [rock-paper-scissors](https://github.com/jaych415/rock-paper-scissors-) — Camera-based rock paper scissors using computer vision (Python)
-- 🤖 [vafachienbot](https://github.com/jaych415/vafachienbot) — A Discord bot for physics questions and tools (Python)
-- 🍽️ [recipe-finder-webapp](https://github.com/jaych415/recipe-finder-webapp-) — Enter ingredients and get AI-powered recipe recommendations (Python)
-- 🌐 [jayesh-website](https://github.com/jaych415/jayesh-website) — My personal portfolio website (HTML)
+- [adventure-game](https://github.com/jaych415/adventure-game) — A fun text-based adventure game built in Python
+- [rock-paper-scissors](https://github.com/jaych415/rock-paper-scissors-) — Camera-based rock paper scissors using computer vision (Python)
+- [vafachienbot](https://github.com/jaych415/vafachienbot) — A Discord bot for physics questions and tools (Python)
+- [recipe-finder-webapp](https://github.com/jaych415/recipe-finder-webapp-) — Enter ingredients and get AI-powered recipe recommendations (Python)
+- [jayesh-website](https://github.com/jaych415/jayesh-website) — My personal portfolio website (HTML)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,7 +40,7 @@ I'm a Computer Science student at UC Merced who loves building fun, useful proje
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaych415&theme=dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaych415&theme=dark&utcOffset=-8)
@@ -50,7 +50,7 @@ I'm a Computer Science student at UC Merced who loves building fun, useful proje
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <!-- Replace # with your actual links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayeshch/)
